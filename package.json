@@ -28,7 +28,7 @@
   },
   "devDependencies": {},
   "engines": {
-    "node": "22.12.0",
+    "node": "18.20.5",
     "npm": "8.5.5"
   },
   "strapi": {
